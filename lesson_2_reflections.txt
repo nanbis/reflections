@@ -27,3 +27,8 @@ How do the diagrams help you visualize the branch structure?
 Seeing when work on a new feature started
 Perhaps the parent node of that branch may give a hint on the inspiration for creating that respective branch
 Kinda the only way of representing branches
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is a single branch, that is also why it is represented that way in the diagram.
