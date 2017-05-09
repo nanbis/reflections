@@ -1,0 +1,38 @@
+-seeing the differences
+-find out where the program stopped working, compared to a previous version
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+-seeing the evolution of the program
+-seeing previous mistakes
+-seeing how you improved
+-when you lose your current line of thinking, you can return to a previous idea
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Automatically:
+Cons:	-might save a file which does not compile, with an unfinished feature
+	-might save too oftenly or too rarely
+
+Pros:	-perfect for people who forget to save manually
+
+
+Manually:
+Pros:	-only saves when it is needed
+	-can do one commit per logical change, allowing easier comparison between versions
+
+Cons:	-might forget to save
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+I am no longer scared of experimenting. If something breaks, I will know exactly when the bug was introduced and either use diff to fix it, or just return to that previous state.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Homework
+Personal projects
+Programming
