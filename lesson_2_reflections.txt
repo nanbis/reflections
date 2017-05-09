@@ -19,3 +19,11 @@ Branches help keep versions of the files which differ in a greater way than just
 As said, creating a new difficulty for a game
 		 		  a new language for the game
 		 		  a new feature
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Seeing when work on a new feature started
+Perhaps the parent node of that branch may give a hint on the inspiration for creating that respective branch
+Kinda the only way of representing branches
