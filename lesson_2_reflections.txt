@@ -32,3 +32,8 @@ Kinda the only way of representing branches
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a single branch, that is also why it is represented that way in the diagram.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging is fine, but it combining two existing versions of a piece of code might include two features which partially or totally overlap, an example was given during one ov the lessons: having two versions of the same function. Manual mergining will usually work towards clearing the code of such errors.
